@@ -1,0 +1,2 @@
+Sí, los **operadores relacionales** no devuelven valores numéricos, sino que nos afirman (`True`) o rechazan (`False`) la hipótesis que hayamos puesto a prueba.
+En nuestro ejemplo la hipótesis es que la edad de Ana es igual a la de Lola y por eso `Python` nos dice que es falso (False).

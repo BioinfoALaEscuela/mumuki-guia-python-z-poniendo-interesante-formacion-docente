@@ -1,0 +1,2 @@
+Si fuiste original, muy probablemente tu programa no sea exactamente igual al mío o al de los demás. Perfecto!!!  :clap: 
+¡Existen muchas formas de lograr un mismo resultado! Así pues, si tu programa saluda a la persona que lo usa lo has hecho bien!
