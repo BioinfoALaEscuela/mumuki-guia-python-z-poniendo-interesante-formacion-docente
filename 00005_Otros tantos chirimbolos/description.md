@@ -7,5 +7,8 @@ Los operadores relacionales que se pueden usar en `Python` son:
 | Mayor | > | | | | | | | | | | | | |
 | Menor | / | | | | | | | | | | | | |
 
-**Desafío**
-¿Podrías crear dos varibles cuyos valores sean 'Ana' y 'ana' respectivamente y vereficar si son iguales?
+> **Desafío**
+
+> Compará las palabras "Bioinfo" y "bioinfo" 
+
+> **¿Son iguales? ¿Por qué?**
