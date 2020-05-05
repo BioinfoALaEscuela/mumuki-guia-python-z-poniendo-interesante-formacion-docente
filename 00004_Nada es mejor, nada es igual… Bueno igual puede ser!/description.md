@@ -8,4 +8,4 @@ edad_ana = 32
 print(edad_lola == edad_ana)
 ```
 
-¿Qué resultado obtenés al comparar dos variables? Copiá el código y probalo!
+> ¿Qué resultado obtenés al comparar dos variables? Copiá el código y probalo!
